@@ -3,7 +3,7 @@
 This is a project that runs on the Nvidia Jetson Nano within the Nvidia DLI Jupyter Lab Docker container. This project uses a classification model that you train yourself to detect moves on a physical tic-tac-toe board using a webcam. You are able to play against the computer using a physical tic-tac-toe board and your custom-trained classification model.
 
  <br>
-Watch the tutorial and demo on YouTube here: 
+Watch the tutorial and demo on YouTube here: https://www.youtube.com/watch?v=XS-5EG-ScgQ
 
  <br>  <br>
 Setup Instructions:
